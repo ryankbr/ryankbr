@@ -1,4 +1,5 @@
-# 💫 About Me:
+## Hi, I'm Ryan!
+# 🐯 About Me:
 ➲ president & founder @ TAMU ENGR TA organization<br>➲ officer @ aggie coding club<br>➲ officer @ aggie competitive programming club<br>➲ project manager @ leetcamp<br><br>🔬 currently working on personal projects using react.js<br>🤝 looking for summer '23 software engineering internships<br>🌱 currently learning react.js / jsx and sql<br>💬 ask me about my projects!<br>🦁 fun fact: my friends call me lion
 
 
