@@ -12,7 +12,7 @@
 # 📊 GitHub Activity:
 ![](https://github-readme-stats.vercel.app/api?username=ryankbr&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ryankbr&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryankbr&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</br>
-![](https://github-readme-stats.vercel.app/api?username=ryankbr&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryankbr&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ryankbr&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 ---
 ![](https://visitcount.itsvg.in/api?id=ryankbr&icon=0&color=0)](https://visitcount.itsvg.in)
