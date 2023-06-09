@@ -1,6 +1,6 @@
 <!-- ## Hi, I'm Ryan! -->
 # 🐯 About Me:
-➲ president & founder @ TAMU ENGR TA organization<br>➲ officer & webmaster @ aggie coding club<br>➲ officer & company outreach manager @ aggie competitive programming club<br>➲ project manager @ leetcamp<br><br>🔬 currently working on personal projects using react.js and tensorflow!<br>🤝 looking for summer '24 software engineering internships and spring '24 software engineering co-ops <br>🌱 currently learning & working with react.js, sql, and tensorflow<br>💬 ask me about my projects!<br>🦁 fun fact: my friends call me lion
+➲ president & founder @ TAMU ENGR TA organization<br>➲ officer & webmaster @ aggie coding club<br>➲ officer & company outreach manager @ aggie competitive programming club<br>➲ project manager @ leetcamp<br><br>🔬 currently working on personal projects using react.js and tensorflow!<br>🤝 looking for summer '24 software engineering internships <br>🌱 currently learning & working with react.js, sql, and tensorflow<br>💬 ask me about my projects!<br>🦁 fun fact: my friends call me lion
 
  
 ## 🌐 Socials:
