@@ -1,7 +1,8 @@
 <!-- ## Hi, I'm Ryan! -->
 # 🐯 About Me:
-➲ machine learning swe intern @ jhuapl<br><br>
-➲ swe @ frogslayer<br><br>
+➲ machine learning swe intern @ jhuapl<br>
+➲ swe @ frogslayer<br>
+➲ incoming technology summer engagement program intern @ paycom<br>
 ➲ president & founder @ TAMU ENGR TA organization<br>
 ➲ officer & webmaster @ aggie coding club<br>
 ➲ logistics chair @ aggie competitive programming club<br>
