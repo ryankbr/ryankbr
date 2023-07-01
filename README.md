@@ -2,7 +2,7 @@
 # 🐯 About Me:
 ➲ machine learning swe intern @ jhuapl<br>
 ➲ swe @ frogslayer<br>
-➲ incoming technology summer engagement program intern @ paycom<br>
+➲ incoming technology summer engagement program intern @ paycom<br><br>
 ➲ president & founder @ TAMU ENGR TA organization<br>
 ➲ officer & webmaster @ aggie coding club<br>
 ➲ logistics chair @ aggie competitive programming club<br>
