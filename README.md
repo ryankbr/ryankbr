@@ -7,7 +7,7 @@
 ➲ officer & webmaster @ aggie coding club<br>
 ➲ logistics chair @ aggie competitive programming club<br>
 ➲ project manager @ leetcamp<br><br>
-🔬 currently working on personal projects using react.js and tensorflow!<br>
+🔬 currently working on personal projects using react.js and tensorflow and dabbling with aws<br>
 🤝 looking for spring / summer '24 software engineering internships / co-ops <br>
 🌱 currently learning & developing machine learning tooling, big data, and docker @ jhuapl with mit lincoln labs<br>
 💬 ask me about my projects, skincare, consumer tech, or fitness!<br>
