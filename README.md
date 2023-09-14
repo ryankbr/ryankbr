@@ -1,10 +1,12 @@
 <!-- ## Hi, I'm Ryan! -->
 # 🐯 About Me:
-➲ machine learning swe intern @ jhuapl<br>
+➲ machine learning swe co-op @ jhuapl<br>
+➲ head TA @ TAMU's python and engineering physics laboratory
 ➲ president & founder @ TAMU ENGR TA organization<br>
 ➲ vice president & logistics chair @ aggie competitive programming club<br>
 ➲ officer & webmaster @ aggie coding club<br>
-🔬 currently working on personal projects using react.js and tensorflow and dabbling with aws<br>
+
+🔬 currently working on personal projects using react.js and tensorflow while dabbling with aws<br>
 🤝 looking for spring / summer '24 software engineering internships / co-ops <br>
 🌱 currently learning & developing machine learning tooling, big data, and docker @ jhuapl with mit lincoln labs<br>
 💬 ask me about my projects, skincare, consumer tech, or fitness!<br>
@@ -12,6 +14,7 @@
 
 i was a...<br>
 ➲ swe @ frogslayer<br>
+➲ swe & ml intern @ jhuapl<br>
 ➲ technology summer engagement program intern @ paycom<br>
 ➲ emerge scholar @ dell technologies<br>
 ➲ project manager @ leetcamp<br><br>
