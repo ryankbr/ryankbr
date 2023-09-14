@@ -1,5 +1,5 @@
 <!-- ## Hi, I'm Ryan! -->
-[![RyanKbr](https://creatorspace.imgix.net/users/clknie60v04gks501idqzjvve/GlawgzQmAIY1lEXJ-97A0DAB3-DD84-400F-A7EE-43610493A379.jpg?w=200&h=200)](https://ryankbr.me) &nbsp; <br>
+[![RyanKbr](https://creatorspace.imgix.net/users/clknie60v04gks501idqzjvve/GlawgzQmAIY1lEXJ-97A0DAB3-DD84-400F-A7EE-43610493A379.jpg?w=200&h=200)](https://ryankbr.me){:target="_blank"}  &nbsp; <br>
 # hi! i'm ryan 🐯
 ### who i am...
 ---
@@ -30,10 +30,10 @@
  
 ### feel free to click around ⤵️
 ---
-[![LinkedIn](https://cdn-icons-png.flaticon.com/24/3536/3536505.png)](https://linkedin.com/in/ryankbr) &nbsp; in/ryankbr <br>
-[![My Website](https://creatorspace.imgix.net/users/clknie60v04gks501idqzjvve/GlawgzQmAIY1lEXJ-97A0DAB3-DD84-400F-A7EE-43610493A379.jpg?w=24&h=24)](https://ryankbr.me) &nbsp; ryankbr.me <br>
-[![Bento](https://cdn-icons-png.flaticon.com/24/8710/8710174.png)](https://bento.me/ryankbr) &nbsp; bento.me/ryankbr <br>
-[![Discord](https://cdn-icons-png.flaticon.com/24/5968/5968756.png)](https://discord.com/users/283467779951034368) &nbsp; ryankbr 
+[![LinkedIn](https://cdn-icons-png.flaticon.com/24/3536/3536505.png)](https://linkedin.com/in/ryankbr){:target="_blank"}  &nbsp; in/ryankbr <br>
+[![My Website](https://creatorspace.imgix.net/users/clknie60v04gks501idqzjvve/GlawgzQmAIY1lEXJ-97A0DAB3-DD84-400F-A7EE-43610493A379.jpg?w=24&h=24)](https://ryankbr.me){:target="_blank"}  &nbsp; ryankbr.me <br>
+[![Bento](https://cdn-icons-png.flaticon.com/24/8710/8710174.png)](https://bento.me/ryankbr){:target="_blank"}  &nbsp; bento.me/ryankbr <br>
+[![Discord](https://cdn-icons-png.flaticon.com/24/5968/5968756.png)](https://discord.com/users/283467779951034368){:target="_blank"}  &nbsp; ryankbr 
 
 <!-- # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
