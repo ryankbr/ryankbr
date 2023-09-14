@@ -10,7 +10,7 @@
 💬 ask me about my projects, skincare, consumer tech, or fitness!<br>
 🦁 fun fact: my friends call me lion
 
-i was a...
+i was a...<br>
 ➲ swe @ frogslayer<br>
 ➲ technology summer engagement program intern @ paycom<br>
 ➲ emerge scholar @ dell technologies<br>
