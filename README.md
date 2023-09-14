@@ -46,7 +46,7 @@
 
 # 📊 GitHub Stats: 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=ryankbr&theme=nord&hide_border=false&include_all_commits=false&count_private=true) -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=ryankbr&theme=nord&hide_border=false&include_all_commits=false&count_private=true)<br/>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=ryankbr&theme=nord&hide_border=false&include_all_commits=false&count_private=true)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryankbr&theme=nord&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
   
 [![](https://visitcount.itsvg.in/api?id=ryankbr&theme=nord&hide_border=false&logoColor=10)](https://visitcount.itsvg.in)
