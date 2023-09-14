@@ -1,8 +1,8 @@
 <!-- ## Hi, I'm Ryan! -->
 # 🐯 About Me:
 ➲ machine learning swe co-op @ jhuapl<br>
-➲ head TA @ TAMU's python and engineering physics laboratory
-➲ president & founder @ TAMU ENGR TA organization<br>
+➲ head TA @ tamu's python and engineering physics laboratory<br>
+➲ president & founder @ tamu engr TA organization<br>
 ➲ vice president & logistics chair @ aggie competitive programming club<br>
 ➲ officer & webmaster @ aggie coding club<br>
 
