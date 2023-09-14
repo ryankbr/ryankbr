@@ -1,20 +1,20 @@
 <!-- ## Hi, I'm Ryan! -->
 # 🐯 about me:
-### ☀️ what i am doing...
+### what i am doing...
 🚁 **swe & machine learning co-op** @ jhuapl<br>
 🐍 **head TA** @ tamu's python computation and engineering physics laboratory<br>
 👨🏾‍🏫 **president** & founder @ tamu engr TA organization<br>
 ⚙️ **vice president** & logistics chair @ aggie competitive programming club<br>
 💡 officer & **webmaster** @ aggie coding club<br>
 
-### ⭐️ what i'm up to...
+### what i'm up to...
 🤝 **actively looking for** spring / summer '24 software engineering internships / co-ops <br>
 🔬 **currently working on** personal projects using react.js and tensorflow while dabbling with aws<br>
 🌱 **currently learning** & developing machine learning tooling, big data, and docker @ jhuapl with mit lincoln labs<br>
 💬 **ask me about my** projects, skincare, consumer tech, or fitness!<br>
 🦁 **fun fact:** my friends call me lion
 
-### 🌝 what i was...<br>
+### what i was...<br>
 🐸 swe @ frogslayer<br>
 ✈️ swe & ml intern @ jhuapl<br>
 💵 technology summer engagement program intern @ paycom<br>
