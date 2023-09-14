@@ -1,10 +1,10 @@
 <!-- ## Hi, I'm Ryan! -->
 # 🐯 About Me:
-➲ machine learning swe co-op @ jhuapl<br>
-➲ head TA @ tamu's python and engineering physics laboratory<br>
-➲ president & founder @ tamu engr TA organization<br>
-➲ vice president & logistics chair @ aggie competitive programming club<br>
-➲ officer & webmaster @ aggie coding club<br>
+➲ **swe & machine learning co-op** @ jhuapl<br>
+➲ **head TA** @ tamu's python and engineering physics laboratory<br>
+➲ **president** & founder @ tamu engr TA organization<br>
+➲ **vice president** & logistics chair @ aggie competitive programming club<br>
+➲ officer & **webmaster** @ aggie coding club<br>
 
 🔬 currently working on personal projects using react.js and tensorflow while dabbling with aws<br>
 🤝 looking for spring / summer '24 software engineering internships / co-ops <br>
