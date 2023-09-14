@@ -12,7 +12,7 @@
 💬 ask me about my projects, skincare, consumer tech, or fitness!<br>
 🦁 fun fact: my friends call me lion
 
-i was a...<br>
+⌛ i was a...<br>
 ➲ swe @ frogslayer<br>
 ➲ swe & ml intern @ jhuapl<br>
 ➲ technology summer engagement program intern @ paycom<br>
