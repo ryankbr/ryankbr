@@ -1,6 +1,7 @@
 <!-- ## Hi, I'm Ryan! -->
-# 🐯 about me:
-### what i am doing...
+[![RyanKbr](https://creatorspace.imgix.net/users/clknie60v04gks501idqzjvve/GlawgzQmAIY1lEXJ-97A0DAB3-DD84-400F-A7EE-43610493A379.jpg?w=200&h=200)](https://ryankbr.me) &nbsp; <br>
+# hi! i'm ryan 🐯
+### who i am...
 ---
 🚁 **swe & machine learning co-op** @ jhuapl<br>
 🐍 **head TA** @ tamu's python computation and engineering physics laboratory<br>
@@ -27,8 +28,12 @@
 💻 emerge scholar @ dell technologies<br>
 ⛺️ project manager @ leetcamp<br><br>
  
-### 🌐 where to find me!
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/283467779951034368) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ryankbr) 
+### feel free to click around ⤵️
+---
+[![LinkedIn](https://cdn-icons-png.flaticon.com/24/3536/3536505.png)](https://linkedin.com/in/ryankbr) &nbsp; in/ryankbr <br>
+[![My Website](https://creatorspace.imgix.net/users/clknie60v04gks501idqzjvve/GlawgzQmAIY1lEXJ-97A0DAB3-DD84-400F-A7EE-43610493A379.jpg?w=24&h=24)](https://ryankbr.me) &nbsp; ryankbr.me <br>
+[![Bento](https://cdn-icons-png.flaticon.com/24/8710/8710174.png)](https://bento.me/ryankbr) &nbsp; bento.me/ryankbr <br>
+[![Discord](https://cdn-icons-png.flaticon.com/24/5968/5968756.png)](https://discord.com/users/283467779951034368) &nbsp; ryankbr 
 
 <!-- # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
@@ -54,7 +59,7 @@
 
 # 📊 GitHub Stats: 
 ![](https://github-readme-stats.vercel.app/api?username=ryankbr&theme=nord&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ryankbr&theme=nord&hide_border=false&include_all_commits=false&count_private=true)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryankbr&theme=nord&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ryankbr&theme=nord&hide_border=false&include_all_commits=false&count_private=true)<br/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryankbr&theme=nord&hide_border=false&include_all_commits=false&count_private=true&layout=compact)-->
   
 [![](https://visitcount.itsvg.in/api?id=ryankbr&theme=nord&hide_border=false&logoColor=10)](https://visitcount.itsvg.in)
