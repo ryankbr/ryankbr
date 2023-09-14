@@ -1,5 +1,5 @@
 <!-- ## Hi, I'm Ryan! -->
-[![RyanKbr](https://creatorspace.imgix.net/users/clknie60v04gks501idqzjvve/GlawgzQmAIY1lEXJ-97A0DAB3-DD84-400F-A7EE-43610493A379.jpg?w=200&h=200)](https://ryankbr.metarget="_blank)  &nbsp; <br>
+[![RyanKbr](https://creatorspace.imgix.net/users/clknie60v04gks501idqzjvve/GlawgzQmAIY1lEXJ-97A0DAB3-DD84-400F-A7EE-43610493A379.jpg?w=200&h=200)](https://ryankbr.me)  &nbsp; <br>
 # hi! i'm ryan 🐯
 ### who i am...
 ---
