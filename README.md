@@ -24,7 +24,7 @@
 💻 emerge scholar @ dell technologies<br>
 ⛺️ project manager @ leetcamp<br><br>
  
-## 🌐 where to find me!
+### 🌐 where to find me!
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/283467779951034368) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ryankbr) 
 
 <!-- # 💻 Tech Stack:
@@ -47,11 +47,11 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) --!>
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
 
 # 📊 GitHub Stats: 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=ryankbr&theme=nord&hide_border=false&include_all_commits=false&count_private=true) -->
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=ryankbr&theme=nord&hide_border=false&include_all_commits=false&count_private=true)<br/> -->
+![](https://github-readme-stats.vercel.app/api?username=ryankbr&theme=nord&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ryankbr&theme=nord&hide_border=false&include_all_commits=false&count_private=true)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryankbr&theme=nord&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
   
 [![](https://visitcount.itsvg.in/api?id=ryankbr&theme=nord&hide_border=false&logoColor=10)](https://visitcount.itsvg.in)
