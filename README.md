@@ -13,7 +13,7 @@
 
 ### what i'm up to...
 ---
-🤝 **actively looking for** fall'24 / spring'25 software engineering internships / co-ops <br>
+🤝 **actively looking for** fall '24 / spring '25 software engineering internships / co-ops <br>
 <br>
 🔬 **currently working on** personal projects using react.js and tensorflow while dabbling with aws<br>
 🌱 **currently learning** & developing machine learning tooling, big data, and docker @ jhuapl with mit lincoln labs<br>
