@@ -1,5 +1,8 @@
 <!-- ## Hi, I'm Ryan! -->
-[![RyanKbr](https://i.ibb.co/8xgV8sp/Wyan-Logo-HD.png)](https://ryankbr.me)  &nbsp; <br>
+<a href="https://ryankbr.me">
+    <img src="https://i.ibb.co/8xgV8sp/Wyan-Logo-HD.png" alt="RyanKbr" width="100">
+</a> &nbsp; <br>
+
 # hi! i'm ryan 🐯
 ### who i am...
 ---
