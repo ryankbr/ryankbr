@@ -24,9 +24,9 @@
 
 ### what i'm up to...
 ---
-🤝 **actively looking for** fall '24 / spring '25 software engineering internships / co-ops <br>
+🤝 **looking for** fall '24 / spring '25 / summer '25 software engineering internships / co-ops <br>
 🔬 **currently tinkering with** projects using typescript, tailwind, and pytorch!<br>
-🌱 **currently developing** anomaly detection ml models @ jhuapl with mit lincoln labs<br>
+🌱 **currently developing** cool .net developer platform stuff for microsoft graph!<br>
 <br>
 💬 **ask me about my** projects, skincare, consumer tech, or fitness!<br>
 🦁 **fun fact:** my friends call me lion
