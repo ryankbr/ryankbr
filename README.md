@@ -18,7 +18,6 @@
 ### who i am...
 ---
 🪟 **swe intern** @ microsoft<br>
-<br>
 👨🏾‍🏫 **president** & founder @ tamu engr TA organization<br>
 ⚙️ **vice president** & logistics chair @ aggie competitive programming club<br>
 
