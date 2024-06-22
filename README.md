@@ -17,9 +17,7 @@
 
 ### who i am...
 ---
-🪟 **incoming swe intern** @ microsoft<br>
-🚁 **swe & machine learning co-op** @ jhuapl<br>
-🐍 **head TA** @ tamu's python computation and engineering physics laboratory<br>
+🪟 **swe intern** @ microsoft<br>
 <br>
 👨🏾‍🏫 **president** & founder @ tamu engr TA organization<br>
 ⚙️ **vice president** & logistics chair @ aggie competitive programming club<br>
