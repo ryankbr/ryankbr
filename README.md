@@ -15,11 +15,13 @@
     </a><br>
 </div>
 
-### who i am...
+### about me...
 ---
 🪟 **swe intern** @ microsoft<br>
 👨🏾‍🏫 **president** & founder @ tamu engr TA organization<br>
 ⚙️ **vice president** & logistics chair @ aggie competitive programming club<br>
+
+⌛ **previously** @ johns hopkins apl, dell technologies, paycom, frogslayer
 
 ### what i'm up to...
 ---
@@ -38,10 +40,6 @@
 [![Bento](https://cdn-icons-png.flaticon.com/24/8710/8710174.png)](https://bento.me/ryankbr)  &nbsp; bento.me/ryankbr <br>
 [![Discord](https://cdn-icons-png.flaticon.com/24/5968/5968756.png)](https://discord.com/users/283467779951034368)  &nbsp; ryankbr 
 
-</div>
-
-<div align='center'>
-    <img src="https://i.ibb.co/MPkrkqn/carbon-1.png" alt="Summary of my past positions">
 </div>
 
 
