@@ -18,7 +18,7 @@
 ### about me...
 ---
 🪟 **swe intern** @ microsoft<br>
-👨🏾‍🏫 **president** & founder @ tamu engr ta organization<br>
+👨🏾‍🏫 **president** & founder @ tamu engr ta organization (tao)<br>
 ⚙️ **vice president** & logistics chair @ aggie competitive programming club<br>
 
 ⌛ **previously** @ johns hopkins apl, dell technologies, paycom, frogslayer
