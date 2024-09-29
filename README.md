@@ -10,24 +10,25 @@
 -->
 
 <div align='center'>
-    <a href="https://ryankbr.me">
+    <a href="https://ryankbr.com">
         <img src=https://i.ibb.co/7rSW94m/ryankbr-minimal-banner.png" alt="RyanKbr Minimal Banner. Featuring name, tagline, and logo.">
     </a><br>
 </div>
 
 ### about me...
 ---
-🪟 **swe intern** @ microsoft<br>
-👨🏾‍🏫 **president** & founder @ engr ta organization (tao)<br>
+🪟 **swe** @ microsoft<br>
 ⚙️ **vice president** & logistics chair @ aggie competitive programming club<br>
+👨🏾‍🏫 **founder** @ engr ta organization (tao)<br>
 
-⌛ **previously** @ johns hopkins apl, dell technologies, paycom, frogslayer
+⌛ **previously interned** @ microsoft, johns hopkins apl, dell technologies, paycom, frogslayer
+⌛ **previously lead** @ engr tao (president), aggie coding club (webmaster), tams global org (president/founder)
 
 ### what i'm up to...
 ---
-🤝 **looking for** fall '24 / spring '25 / summer '25 software engineering internships / co-ops <br>
-🔬 **currently tinkering with** projects using typescript, tailwind, and pytorch!<br>
-🌱 **currently developing** cool .net developer platform stuff for microsoft graph!<br>
+🤝 **looking for** 2025 new grad swe roles! <br>
+🔬 **currently tinkering with** projects using next.js, typescript, and tailwind!<br>
+🌱 **currently developing** my new personal website & cool .net developer platform stuff for microsoft graph!<br>
 <br>
 💬 **ask me about my** projects, skincare, consumer tech, or fitness!<br>
 🦁 **fun fact:** my friends call me lion
@@ -36,7 +37,7 @@
 ### feel free to click around!
 ---
 [![LinkedIn](https://cdn-icons-png.flaticon.com/24/3536/3536505.png)](https://linkedin.com/in/ryankbr) &nbsp; in/ryankbr <br>
-[![My Website](https://creatorspace.imgix.net/users/clknie60v04gks501idqzjvve/GlawgzQmAIY1lEXJ-97A0DAB3-DD84-400F-A7EE-43610493A379.jpg?w=24&h=24)](https://ryankbr.me) &nbsp; ryankbr.me <br>
+[![My Website](https://creatorspace.imgix.net/users/clknie60v04gks501idqzjvve/GlawgzQmAIY1lEXJ-97A0DAB3-DD84-400F-A7EE-43610493A379.jpg?w=24&h=24)](https://ryankbr.me) &nbsp; ryankbr.com <br>
 [![Bento](https://cdn-icons-png.flaticon.com/24/8710/8710174.png)](https://bento.me/ryankbr)  &nbsp; bento.me/ryankbr <br>
 [![Discord](https://cdn-icons-png.flaticon.com/24/5968/5968756.png)](https://discord.com/users/283467779951034368)  &nbsp; ryankbr 
 
