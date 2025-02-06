@@ -26,7 +26,7 @@
 
 ### what i'm up to...
 ---
-🤝 **looking for** 2025 new grad swe roles! <br>
+<!-- 🤝 **looking for** 2025 new grad swe roles! <br> -->
 🔬 **currently tinkering with** projects using next.js, typescript, and tailwind!<br>
 🌱 **currently developing** my new personal website & cool .net developer platform stuff for microsoft graph!<br>
 <br>
