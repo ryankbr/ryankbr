@@ -27,8 +27,8 @@
 ### what i'm up to...
 ---
 <!-- 🤝 **looking for** 2025 new grad swe roles! <br> -->
-🔬 **currently tinkering with** projects using next.js, typescript, and tailwind!<br>
-🌱 **currently developing** my new personal website & cool .net developer platform stuff for microsoft graph!<br>
+🔬 **currently** attempting to make next.js projects without really knowing react, lol<br>
+🌱 **currently working on** change notification systems for microsoft graph!<br>
 <br>
 💬 **ask me about my** projects, skincare, consumer tech, or fitness!<br>
 🦁 **fun fact:** my friends call me lion
