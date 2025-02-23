@@ -9,7 +9,7 @@
 <h1 align='center'> hi! i'm ryan 🐯</h1> 
 -->
 
-<a href="https://ryankbr.com">![image](https://github.com/user-attachments/assets/df64730d-204c-4e23-bcac-0cbe40fc1909)</a>
+<a href="https://ryankbr.com" target="_blank">![image](https://github.com/user-attachments/assets/df64730d-204c-4e23-bcac-0cbe40fc1909)</a>
 
 ### about me...
 ---
