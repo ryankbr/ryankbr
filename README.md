@@ -9,11 +9,7 @@
 <h1 align='center'> hi! i'm ryan 🐯</h1> 
 -->
 
-<div align='center'>
-    <a href="https://ryankbr.com">
-        <img src=https://i.ibb.co/7rSW94m/ryankbr-minimal-banner.png" alt="RyanKbr Minimal Banner. Featuring name, tagline, and logo.">
-    </a><br>
-</div>
+<a href="ryankbr.com">![image](https://github.com/user-attachments/assets/df64730d-204c-4e23-bcac-0cbe40fc1909)</a>
 
 ### about me...
 ---
