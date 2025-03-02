@@ -23,8 +23,8 @@
 ### what i'm up to...
 ---
 <!-- 🤝 **looking for** 2025 new grad swe roles! <br> -->
-🔬 **currently** attempting to make next.js projects without really knowing react, lol<br>
-🌱 **currently working on** change notification systems for microsoft graph!<br>
+🔬 **currently** building stuff in next.js without really knowing react, lol<br>
+🌱 **working on** change notification systems for microsoft graph!<br>
 <br>
 💬 **ask me about my** projects, skincare, consumer tech, or fitness!<br>
 🦁 **fun fact:** my friends call me lion
