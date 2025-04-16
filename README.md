@@ -23,11 +23,11 @@
 ### what i'm up to...
 ---
 <!-- 🤝 **looking for** 2025 new grad swe roles! <br> -->
-🔬 **currently** building stuff in next.js without really knowing react, lol<br>
+🔬 **currently** building my personal website out in next.js & doing some contract work for siemens<br>
 🌱 **working on** change notification systems for microsoft graph!<br>
 <br>
-💬 **ask me about my** projects, skincare, consumer tech, or fitness!<br>
-🦁 **fun fact:** my friends call me lion
+💬 **ask me about** my projects, skincare, consumer tech, or fitness!<br>
+🦁 **fun fact:** im a content creator (@ryankbr on yt/tiktok/ig - links below!)
  
 
 ### feel free to click around!
