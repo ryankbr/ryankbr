@@ -33,7 +33,7 @@
 ### feel free to click around!
 ---
 [![LinkedIn](https://cdn-icons-png.flaticon.com/24/3536/3536505.png)](https://linkedin.com/in/ryankbr) &nbsp; in/ryankbr <br>
-[![My Website](https://creatorspace.imgix.net/users/clknie60v04gks501idqzjvve/GlawgzQmAIY1lEXJ-97A0DAB3-DD84-400F-A7EE-43610493A379.jpg?w=24&h=24)](https://ryankbr.me) &nbsp; ryankbr.com <br>
+[![My Website](https://creatorspace.imgix.net/users/clknie60v04gks501idqzjvve/GlawgzQmAIY1lEXJ-97A0DAB3-DD84-400F-A7EE-43610493A379.jpg?w=24&h=24)](https://ryankbr.com) &nbsp; ryankbr.com <br>
 [![Instagram](https://cdn-icons-png.flaticon.com/24/3955/3955027.png)](https://instagram.com/ryankbr) &nbsp; @ryankbr <br>
 [![YouTube](https://cdn-icons-png.flaticon.com/24/1384/1384060.png)](https://youtube.com/@ryankbr) &nbsp; @ryankbr <br>
 [![Bento](https://cdn-icons-png.flaticon.com/24/8710/8710174.png)](https://bento.me/ryankbr)  &nbsp; bento.me/ryankbr <br>
