@@ -14,20 +14,19 @@
 ### about me...
 ---
 🪟 **swe** @ microsoft<br>
-⚙️ **vice president** & logistics chair @ aggie competitive programming club<br>
-👨🏾‍🏫 **founder** @ engr ta organization (tao)<br>
+🎓 texas a&m university alum
 
 ⌛ **previously interned** @ microsoft, johns hopkins apl, dell technologies, paycom, frogslayer<br>
-⌛ **previously lead** @ engr tao (president), aggie coding club (webmaster), tams global org (president/founder)
+⌛ **previously lead** @ engr tao (president, founder), aggie coding club (vice president, logistics chair, webmaster), tams global org (president/founder)
 
 ### what i'm up to...
 ---
 <!-- 🤝 **looking for** 2025 new grad swe roles! <br> -->
-🔬 **currently** building my personal website out in next.js & doing some contract work for siemens<br>
+🔬 **currently** building my personal website out using next.js<br>
 🌱 **working on** change notification systems for microsoft graph!<br>
 <br>
-💬 **ask me about** my projects, skincare, consumer tech, or fitness!<br>
-🦁 **fun fact:** im a content creator (@ryankbr on yt/tiktok/ig - links below!)
+<!-- 💬 **ask me about** my content, projects, skincare, consumer tech, or fitness!<br> -->
+🦁 **fun fact:** im a content creator **@ryankbr** on youtube & instagram reels, **@lionkbr** on tiktok! (some links below!)
  
 
 ### feel free to click around!
