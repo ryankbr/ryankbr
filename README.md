@@ -22,8 +22,8 @@
 ### what i'm up to...
 ---
 <!-- 🤝 **looking for** 2025 new grad swe roles! <br> -->
-🔬 **currently** building my personal website out using next.js<br>
-🌱 **working on** change notification systems for microsoft graph!<br>
+🔬 **currently** trying to find time for personal projects :)<br>
+🌱 **working on** building secure identities for ai agents at microsoft!<br>
 <br>
 <!-- 💬 **ask me about** my content, projects, skincare, consumer tech, or fitness!<br> -->
 🦁 **fun fact:** im a content creator **@ryankbr** on youtube & instagram reels, **@lionkbr** on tiktok! (some links below!)
